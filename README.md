@@ -1,0 +1,4 @@
+- 👋 Hi, I’m @Fl1up
+- 👀 I’m interested training programming
+- 🌱 I’m currently learning is online shool SkyPro
+- 📫 How to reach me TG channel @flyp
