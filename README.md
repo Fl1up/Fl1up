@@ -19,7 +19,7 @@
 [![Vkontakte](https://img.shields.io/badge/-Vkontakte-090909?style=for-the-badge&logo=Vk&logoColor=4F7DB3)](https://vk.com/s_k_y_s_t_i)
 
 [![GitHub Streak](http://github-readme-streak-stats.herokuapp.com?user=Flyp&theme=dark&hide_border=true&locale=ru&date_format=j%20M%5B%20Y%5D&mode=weekly)](https://git.io/streak-stats)
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Flyp)](https://github.com/anuraghazra/github-readme-stats)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=https://github.com/Fl1up)](https://github.com/anuraghazra/github-readme-stats)
 
 <div id="header" align="center">
   <img src="https://media.giphy.com/media/M9gbBd9nbDrOTu1Mqx/giphy.gif" width="100"/>
