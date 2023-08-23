@@ -37,7 +37,7 @@
 
 [![GitHub Streak](http://github-readme-streak-stats.herokuapp.com?user=Flyp&theme=dark&hide_border=true&locale=ru&date_format=j%20M%5B%20Y%5D&mode=weekly)](https://git.io/streak-stats)
 
-[![Typing SVG](https://readme-typing-svg.herokuapp.com?color=%2336BCF7&lines=Python+developer+programmist)](https://git.io/typing-svg)
+[![Typing SVG](https://readme-typing-svg.herokuapp.com?color=%2336BCF7&lines=Python+developer)](https://git.io/typing-svg)
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Fl1up)](https://github.com/anuraghazra/github-readme-stats)
 
