@@ -12,7 +12,7 @@
   <img src="https://media.giphy.com/media/dWesBcTLavkZuG35MI/giphy.gif" width="600" height="300"/>
 </div>
 
-<img src="https://github.com/devicons/devicon/raw/master/icons/pycharm/pycharm-original-wordmark.svg" title="pycharm" alt="pycharm" width="40" height="40" style="max-width: 100%;" class="__web-inspector-hide-shortcut__">
+<img src="https://github.com/devicons/devicon/raw/master/icons/pycharm/pycharm-original-wordmark.svg" title="pycharm" alt="pycharm" width="70" height="70" style="max-width: 100%;" class="__web-inspector-hide-shortcut__">
 
 
  Socials:
