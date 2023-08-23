@@ -41,9 +41,8 @@
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Fl1up)](https://github.com/anuraghazra/github-readme-stats)
 
-<img src="https://camo.githubusercontent.com/801fd5ef3e61d3fec2388ef813eb2ed412cd53b3faa19a0e9d1448031b97b592/68747470733a2f2f6769746875622d70726f66696c652d73756d6d6172792d63617264732e76657263656c2e6170702f6170692f63617264732f6d6f73742d636f6d6d69742d6c616e67756167653f757365726e616d653d53616e64694e61766f6979267468656d653d6769746875625f6461726b" data-canonical-src="https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=Fl1up&amp;theme=github_dark" style="max-width: 100%;">
 
 
-<div id="header" align="center">
+<div id="header" align="center">  
   <img src="https://media.giphy.com/media/M9gbBd9nbDrOTu1Mqx/giphy.gif" width="100"/>
 </div>
