@@ -37,7 +37,7 @@
 
 [![GitHub Streak](http://github-readme-streak-stats.herokuapp.com?user=Flyp&theme=dark&hide_border=true&locale=ru&date_format=j%20M%5B%20Y%5D&mode=weekly)](https://git.io/streak-stats)
 
-<img src="https://camo.githubusercontent.com/03f8ec1bde97ffbc71bd6c7fbfdaa427d0d54b44a998858a06f0212f4997cb08/68747470733a2f2f6769746875622d70726f66696c652d73756d6d6172792d63617264732e76657263656c2e6170702f6170692f63617264732f70726f66696c652d64657461696c733f757365726e616d653d53616e64694e61766f6979267468656d653d6769746875625f6461726b" data-canonical-src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=SandiNavoiy&amp;theme=github_dark" style="max-width: 100%;">
+[![Typing SVG](https://readme-typing-svg.herokuapp.com?color=%2336BCF7&lines=Python+developer+programmist)](https://git.io/typing-svg)
 
 <div id="header" align="center">
   <img src="https://media.giphy.com/media/M9gbBd9nbDrOTu1Mqx/giphy.gif" width="100"/>
