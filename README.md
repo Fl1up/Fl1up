@@ -12,6 +12,8 @@
   <img src="https://media.giphy.com/media/dWesBcTLavkZuG35MI/giphy.gif" width="600" height="300"/>
 </div>
 
+
+
 <p dir="auto"><a target="_blank" rel="noopener noreferrer" href="https://github.com/devicons/devicon/blob/master/icons/postgresql/postgresql-original.svg"><img src="https://github.com/devicons/devicon/raw/master/icons/postgresql/postgresql-original.svg" title="postgresql" alt="postgresql" width="40" height="40" style="max-width: 100%;"></a>&nbsp;
 <a target="_blank" rel="noopener noreferrer" href="https://github.com/devicons/devicon/blob/master/icons/pycharm/pycharm-original-wordmark.svg"><img src="https://github.com/devicons/devicon/raw/master/icons/pycharm/pycharm-original-wordmark.svg" title="pycharm" alt="pycharm" width="40" height="40" style="max-width: 100%;" class="__web-inspector-hide-shortcut__"></a>&nbsp;
 <a target="_blank" rel="noopener noreferrer nofollow" href="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="python" width="40" height="40" style="max-width: 100%;"></a>
@@ -24,6 +26,8 @@
 <a target="_blank" rel="noopener noreferrer nofollow" href="https://raw.githubusercontent.com/devicons/devicon/master/icons/bootstrap/bootstrap-plain-wordmark.svg"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/bootstrap/bootstrap-plain-wordmark.svg" alt="bootstrap" width="40" height="40" style="max-width: 100%;"></a>
 <a target="_blank" rel="noopener noreferrer nofollow" href="https://camo.githubusercontent.com/93b32389bf746009ca2370de7fe06c3b5146f4c99d99df65994f9ced0ba41685/68747470733a2f2f7777772e766563746f726c6f676f2e7a6f6e652f6c6f676f732f676574706f73746d616e2f676574706f73746d616e2d69636f6e2e737667"><img src="https://camo.githubusercontent.com/93b32389bf746009ca2370de7fe06c3b5146f4c99d99df65994f9ced0ba41685/68747470733a2f2f7777772e766563746f726c6f676f2e7a6f6e652f6c6f676f732f676574706f73746d616e2f676574706f73746d616e2d69636f6e2e737667" alt="postman" width="40" height="40" data-canonical-src="https://www.vectorlogo.zone/logos/getpostman/getpostman-icon.svg" style="max-width: 100%;"></a>
 <a target="_blank" rel="noopener noreferrer" href="https://github.com/devicons/devicon/blob/master/icons/windows8/windows8-original.svg"><img src="https://github.com/devicons/devicon/raw/master/icons/windows8/windows8-original.svg" title="windows8" alt="windows8" width="40" height="40" style="max-width: 100%;"></a>&nbsp;</p>
+
+
 
 
  Socials:
