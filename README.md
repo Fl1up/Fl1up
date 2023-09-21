@@ -6,7 +6,7 @@
 - 👀 I’m interested training programming
 - 🌱 I’m currently learning is online shool SkyPro
 - 📫 How to reach me TG channel @flyp
-- <img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="30"> I am a Backend Developer  from Russia.
+- <img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="30"> I am a Backend Developer  from Russia
 
  <div align="center">
   <img src="https://media.giphy.com/media/dWesBcTLavkZuG35MI/giphy.gif" width="600" height="300"/>
